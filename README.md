@@ -1,7 +1,7 @@
 # CtCI
 Cracking the Coding Interview
 
-These are solutions for the questions from the book [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) by Gayle Laakman McDowell.
+These are *my* solutions for the questions from the book [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) by Gayle Laakman McDowell.
 
 ## Interview Questions
 
