@@ -4,6 +4,7 @@
 */
 
 function checkPermuteWithObject(stringOne, stringTwo){
+    // if different lengths, return false
     if (stringOne.length !== stringTwo.length) return false;
     
     let map = {};
