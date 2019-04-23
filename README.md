@@ -7,7 +7,7 @@ These are *my* solutions for the questions from the book [Cracking the Coding In
 
 ### Arrays and Strings
 - [x] [Is Unique](./arraysAndStrings/isUnique.js)
-- [ ] Check Permutation
+- [x] [Check Permutation](./arraysAndStrings/checkPermutation.js)
 - [ ] URLify
 - [ ] Palindrome Permutation
 - [ ] One Away

@@ -5,12 +5,12 @@
 
 // using an object
 function allUniqueCharsWithObject(str) {
-    let dictionary = {};
+    let map = {};
     for (let i = 0; i < str.length; i++) {
-        if (dictionary[str[i]]) {
+        if (map[str[i]]) {
             return false; // if match, return false
         } else {
-            dictionary[str[i]] = true;
+            map[str[i]] = true;
         }
     }
     return true; // if no match, return true
@@ -29,4 +29,6 @@ function allUniqueChars(string) {
     return true; // if no match, return true
 };
 
-console.log(isStringUniqueCharacters("AaBbCc!@#$zZyYxX.,"));
+// Tests
+console.log(allUniqueCharsWithObject("AaBbCc!@#$zZyYxX.,", true));
+console.log(allUniqueChars("AaBbCc!@#$zZyYxX.,", true));
