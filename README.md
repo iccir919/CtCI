@@ -6,8 +6,8 @@ These are *my* solutions for the questions from the book [Cracking the Coding In
 ## Interview Questions
 
 ### Arrays and Strings
-- [x] [Is Unique](./arraysAndStrings/isUnique.js)
-- [x] [Check Permutation](./arraysAndStrings/checkPermutation.js)
+- [ ] Is Unique
+- [ ] Check Permutation
 - [ ] URLify
 - [ ] Palindrome Permutation
 - [ ] One Away
